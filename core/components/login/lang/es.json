@@ -2,10 +2,10 @@
     "authenticating": "Autenticando",
     "cancel": "Cancelar",
     "connect": "Conectar",
-    "connecttomoodle": "Conectar a OroLegal Virtual",
+    "connecttomoodle": "App OroLegal Virtual",
     "credentials": "Credenciales",
     "help": "Ayuda",
-    "helpmelogin": "<p>Hay miles de sitios que usan Moodle en el mundo. Esta aplicación sólo puede acceder a aquellos que han habilitado acceso móvil.</p><p>Si no puede conectar, contacte con su administrador de Moodle para que lea la siguiente información <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p>Para probar la aplicación en un sitio de demostración teclee <i>teacher</i> o <i>student</i> en el campo <i>URL del sitio</i> y haga clic en el botón <b>Añadir</b>.</p>",
+    "helpmelogin": "<p>Esta Aplicaci�n est� basada en Moodle Mobile.</p><p>Solo debe tocar el bot�n Continuar y cuando se conecte al sitio, digitar su Usuario y Contrase�a.</p><p>Cualquier inquietud puede contactarnos al telefono: <b>444444</b> o toque aqu� para ir a la Mesa de Ayuda.</p>",
     "invalidaccount": "Por favor, verifique sus datos de acceso, o consulte con el administrador para revisar la configuración del sitio.",
     "invalidmoodleversion": "Versión de Moodle inválida. La versión mínima requerida es:",
     "invalidsite": "La URL del sitio es inválida.",
@@ -23,3 +23,5 @@
     "usernamerequired": "Nombre de usuario obligatorio",
     "webservicesnotenabled": "Los Servicios Web no están habilitados en su sitio, por favor, contacte con su administrador de Moodle si piensa que deberían estarlo."
 }
+
+
