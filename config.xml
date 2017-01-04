@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "co.portalaprende.orolegalvirtual"
-        versionCode = "2010"
+        versionCode = "2016"
         version   = "2.9">
     <name>OroLegal Virtual</name>
 
@@ -116,14 +116,14 @@
     <gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.0.0" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
-        
-    
+    <gap:plugin name="com.phonegap.plugins.pushplugin" />
+    <gap:plugin name="net.tunts.webintent" />    
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="moodlemobile" />
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
     <gap:plugin name="cordova-plugin-local-notifications-mm" source="npm" />
-    
+    <gap:plugin name="ch.ti8m.documenthandler" version="0.2.1" />
     <gap:plugin name="cordova-plugin-zip" source="npm" />
 
     <gap:config-file platform="android" parent="/manifest">
